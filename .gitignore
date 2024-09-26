@@ -1,5 +1,7 @@
-# outputs
+# MadGraph Stuff
 outputs/
+data/
+py.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
